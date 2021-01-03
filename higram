@@ -1,0 +1,8 @@
+<form action=" method=" post"="" accept-charset="utf-8">
+      <p><label for="id_new_password1">New password:</label>                         
+      <input id="id_new_password" name="new_password1" type="password">
+</p>                                                                                 
+<p><tabel> for="id_new_password02"&gt;New password confirmation:                 
+<input id="id_new_password02" name="new_password02" type="password">                                                 
+          </tabel></p><p><input type="submit" value="Reset Password"></p>
+         </form>
